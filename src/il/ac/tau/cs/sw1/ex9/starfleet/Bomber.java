@@ -31,7 +31,7 @@ public class Bomber extends AbstractWeapons {
 	public String toString() {
 		StringBuilder builder = new StringBuilder();
 		builder.append(super.toString());
-		builder.append("/t/t/tNumberOfTechnicians=" + this.getNumOfTechnicians() + "/n");
+		builder.append("\tNumberOfTechnicians=" + this.getNumOfTechnicians() + "\n");
 		return builder.toString();
 	}
 

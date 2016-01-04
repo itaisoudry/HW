@@ -56,6 +56,7 @@ public class TransportShip extends AbstractShip {
 
 	public String toString() {
 		StringBuilder builder = new StringBuilder();
+		builder.append(super.toString());
 		builder.append("\tCargoCapacity=" + this.cargoCapacity + "\n");
 		builder.append("\tPassengerCapacity=" + this.passengerCapacity + "\n");
 		return builder.toString();
