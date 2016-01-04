@@ -1,0 +1,10 @@
+Shape Dimension Calculator
+Ellipse: X=100, Y=100, SemiMajorAxis=50, SemiMinorAxis=30
+Area: 4712.39, Perimeter: 251.33
+
+Total number of shapes: 1
+Number of Circles: 0
+Number of Ellipses: 1
+Number of Rectangles: 0
+Total Area sum: 4712.39
+Total Perimiter sum: 251.33
